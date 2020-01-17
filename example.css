@@ -4,6 +4,7 @@ h1 {
     background: rgb(174, 224, 123);
 }
 p {
+    text-shadow: rgb(174, 224, 123) rgb(214, 144, 144);
     font-size: 18px;
     text-shadow: cornflowerblue;
 }
